@@ -1,10 +1,8 @@
 {
-  "category": "Daily Hukamnama",
-  "items": [
+  "daily_hukamnama": [
     {
-      "id": "2026-04-07",
-      "title": "2026-04-07",
-      "shabad": "..."
+      "date": "2026-04-07",
+      "shabad": "ਨਾਨਕ ਨਾਮ ਚੜਦੀ ਕਲਾ ॥"
     }
   ]
 }
