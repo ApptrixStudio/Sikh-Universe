@@ -1,1 +1,36 @@
 
+{
+  "app_name": "Sikh Universe",
+  "menu": [
+    {
+      "id": "daily_hukamnama",
+      "title": "Daily Hukamnama",
+      "type": "screen"
+    },
+    {
+      "id": "sunder_gutka",
+      "title": "Sunder Gutka",
+      "type": "screen"
+    },
+    {
+      "id": "sikh_guru",
+      "title": "Sikh Guru",
+      "type": "screen"
+    },
+    {
+      "id": "gurbani_quotes",
+      "title": "Gurbani Quotes",
+      "type": "screen"
+    },
+    {
+      "id": "wallpapers",
+      "title": "Wallpapers",
+      "type": "screen"
+    },
+    {
+      "id": "shabad_kirtan",
+      "title": "Shabad Kirtan",
+      "type": "screen"
+    }
+  ]
+}
