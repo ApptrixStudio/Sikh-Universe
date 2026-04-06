@@ -1,8 +1,12 @@
-{
-  "daily_hukamnama": [
-    {
-      "date": "2026-04-07",
-      "shabad": "ਨਾਨਕ ਨਾਮ ਚੜਦੀ ਕਲਾ ॥"
-    }
-  ]
-}
+[
+  {
+    "id": "item_1",
+    "title": "Today's Hukamnama",
+    "text": "This is the main text of the Hukamnama displaying beautifully in the app."
+  },
+  {
+    "id": "item_2",
+    "title": "Second Entry Header",
+    "text": "Any additional data will generate a brand new card below the first one automatically!"
+  }
+]
