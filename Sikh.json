@@ -1,1 +1,42 @@
 
+{
+  "app_name": "Sikh Universe",
+  "home_menu": [
+    {
+      "id": "daily_hukamnama",
+      "title": "Daily Hukamnama",
+      "json_url": "https://raw.githubusercontent.com/ApptrixStudio/Sikh-Universe/main/Dailyhukamnama.json",
+      "type": "single"
+    },
+    {
+      "id": "sunder_gutka",
+      "title": "Sunder Gutka",
+      "json_url": "https://raw.githubusercontent.com/ApptrixStudio/Sikh-Universe/main/Path.json",
+      "type": "list"
+    },
+    {
+      "id": "gurbani_quotes",
+      "title": "Gurbani Quotes",
+      "json_url": "https://raw.githubusercontent.com/ApptrixStudio/Sikh-Universe/main/Sikh%20Quotes.json",
+      "type": "list"
+    },
+    {
+      "id": "wallpapers",
+      "title": "Wallpapers",
+      "json_url": "https://raw.githubusercontent.com/ApptrixStudio/Sikh-Universe/main/wallaper.json",
+      "type": "grid"
+    },
+    {
+      "id": "shabad_kirtan",
+      "title": "Shabad Kirtan",
+      "json_url": "https://raw.githubusercontent.com/ApptrixStudio/Sikh-Universe/main/Shabadkirtan.json",
+      "type": "audio"
+    },
+    {
+      "id": "Coming Soon",
+      "title": "COming Soon",
+      "json_url": "https://raw.githubusercontent.com/ApptrixStudio/Sikh-Universe/main/Shabadkirtan.json",
+      "type": "audio"
+    }
+  ]
+}
