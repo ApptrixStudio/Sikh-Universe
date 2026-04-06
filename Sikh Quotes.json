@@ -1,86 +1,12 @@
-
-{
-  "app": "Sikh Universe – Gurbani & Quotes",
-  "language": "pa",
-  "gutka_sahib": [
-    {
-      "id": "japji_sahib",
-      "title": "ਜਪੁਜੀ ਸਾਹਿਬ",
-      "order": 1,
-      "content": [
-        {
-          "id": 1,
-          "text": "ੴ ਸਤਿ ਨਾਮੁ ਕਰਤਾ ਪੁਰਖੁ\nਨਿਰਭਉ ਨਿਰਵੈਰੁ\nਅਕਾਲ ਮੂਰਤਿ ਅਜੂਨੀ ਸੈਭੰ\nਗੁਰ ਪ੍ਰਸਾਦਿ ॥"
-        },
-        {
-          "id": 2,
-          "text": "ਜਪੁ ॥\nਆਦਿ ਸਚੁ ਜੁਗਾਦਿ ਸਚੁ ॥\nਹੈ ਭੀ ਸਚੁ ਨਾਨਕ ਹੋਸੀ ਭੀ ਸਚੁ ॥੧॥"
-        },
-        {
-          "id": 3,
-          "text": "ਸੋਚੈ ਸੋਚਿ ਨ ਹੋਵਈ ਜੇ ਸੋਚੀ ਲਖ ਵਾਰ ॥"
-        }
-      ]
-    },
-
-    {
-      "id": "jaap_sahib",
-      "title": "ਜਾਪ ਸਾਹਿਬ",
-      "order": 2,
-      "content": [
-        {
-          "id": 1,
-          "text": "ਸ੍ਰੀ ਮੁਖਵਾਕ ਪਾਤਸ਼ਾਹੀ ੧੦ ॥"
-        },
-        {
-          "id": 2,
-          "text": "ਛੱਕਰ ਚਿਹਨ ਅਰੁ ਬਰਨ ਜਾਤਿ ਅਰੁ ਪਾਤਿ ਨਹਿਨ ਜਿਹ ॥"
-        }
-      ]
-    },
-
-    {
-      "id": "rehras_sahib",
-      "title": "ਰਹਿਰਾਸ ਸਾਹਿਬ",
-      "order": 3,
-      "content": [
-        {
-          "id": 1,
-          "text": "ਸੋ ਦਰੁ ਰਾਗੁ ਆਸਾ ਮਹਲਾ ੧ ॥"
-        },
-        {
-          "id": 2,
-          "text": "ਸੁਣਿ ਵਡਾ ਆਖੈ ਸਭੁ ਕੋਇ ॥"
-        }
-      ]
-    },
-
-    {
-      "id": "kirtan_sohila",
-      "title": "ਕੀਰਤਨ ਸੋਹਿਲਾ",
-      "order": 4,
-      "content": [
-        {
-          "id": 1,
-          "text": "ਗਗਨ ਮੈ ਥਾਲੁ ਰਵਿ ਚੰਦੁ ਦੀਪਕ ਬਨੇ ॥"
-        }
-      ]
-    },
-
-    {
-      "id": "ardas",
-      "title": "ਅਰਦਾਸ",
-      "order": 5,
-      "content": [
-        {
-          "id": 1,
-          "text": "ੴ ਵਾਹਿਗੁਰੂ ਜੀ ਕੀ ਫਤਿਹ ॥"
-        },
-        {
-          "id": 2,
-          "text": "ਸ੍ਰੀ ਭਗਉਤੀ ਜੀ ਸਹਾਇ ॥"
-        }
-      ]
-    }
-  ]
-}
+[
+  {
+    "id": "item_1",
+    "title": "Today's Hukamnama",
+    "text": "This is the main text of the Hukamnama displaying beautifully in the app."
+  },
+  {
+    "id": "item_2",
+    "title": "Second Entry Header",
+    "text": "Any additional data will generate a brand new card below the first one automatically!"
+  }
+]
