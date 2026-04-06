@@ -31,6 +31,11 @@
       "id": "shabad_kirtan",
       "title": "Shabad Kirtan",
       "type": "screen"
+    },
+    {
+      "id": "Coming Soon",
+      "title": "Shabad Kirtan",
+      "type": "screen"
     }
   ]
 }
