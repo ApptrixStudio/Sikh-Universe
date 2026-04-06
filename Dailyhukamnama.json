@@ -8,5 +8,10 @@
     "id": "item_2",
     "title": "Second Entry Header",
     "text": "Any additional data will generate a brand new card below the first one automatically!"
+  }  ,
+  {
+    "id": "item_3",
+    "title": "Second Entry Header",
+    "text": "Testing Complete!"
   }
 ]
