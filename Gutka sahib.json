@@ -1,48 +1,45 @@
-
 {
-  "category": "Gutka Sahib",
+  "category": "ਗੁਟਕਾ ਸਾਹਿਬ",
   "banis": [
     {
-      "id": "japji_sahib",
-      "title": "Japji Sahib",
-      "language": "Gurmukhi",
-      "text": "ੴ ਸਤਿਨਾਮੁ ਕਰਤਾ ਪੁਰਖੁ ਨਿਰਭਉ ਨਿਰਵੈਰੁ ਅਕਾਲ ਮੂਰਤਿ ਅਜੂਨੀ ਸੈਭੰ ਗੁਰ ਪ੍ਰਸਾਦਿ ॥\n\nਜਪੁ ॥\nਆਦਿ ਸਚੁ ਜੁਗਾਦਿ ਸਚੁ ॥\nਹੈ ਭੀ ਸਚੁ ਨਾਨਕ ਹੋਸੀ ਭੀ ਸਚੁ ॥\n\n(Complete Japji Sahib text here)"
+      "id": "ਜਪੁਜੀ_ਸਾਹਿਬ",
+      "title_pa": "ਜਪੁਜੀ ਸਾਹਿਬ"
     },
     {
-      "id": "jaap_sahib",
-      "title": "Jaap Sahib",
-      "language": "Gurmukhi",
-      "text": "ਛੱਤ੍ਰ ਛਤ੍ਰੀ ਸਰਨਿ...\n\n(Complete Jaap Sahib text here)"
+      "id": "ਜਾਪ_ਸਾਹਿਬ",
+      "title_pa": "ਜਾਪ ਸਾਹਿਬ"
     },
     {
-      "id": "rehras_sahib",
-      "title": "Rehras Sahib",
-      "language": "Gurmukhi",
-      "text": "ਸੋ ਦਰੁ ਰਾਗੁ ਆਸਾ ਮਹਲਾ ੧...\n\n(Complete Rehras Sahib text here)"
+      "id": "ਰਹਿਰਾਸ_ਸਾਹਿਬ",
+      "title_pa": "ਰਹਿਰਾਸ ਸਾਹਿਬ"
     },
     {
-      "id": "kirtan_sohila",
-      "title": "Kirtan Sohila",
-      "language": "Gurmukhi",
-      "text": "ਗਗਨ ਮੈ ਥਾਲੁ ਰਵਿ ਚੰਦੁ ਦੀਪਕ...\n\n(Complete Kirtan Sohila text here)"
+      "id": "ਕੀਰਤਨ_ਸੋਹਿਲਾ",
+      "title_pa": "ਕੀਰਤਨ ਸੋਹਿਲਾ"
     },
     {
-      "id": "anand_sahib",
-      "title": "Anand Sahib",
-      "language": "Gurmukhi",
-      "text": "ਅਨੰਦੁ ਭਇਆ ਮੇਰੀ ਮਾਏ...\n\n(Complete Anand Sahib text here)"
+      "id": "ਅਨੰਦ_ਸਾਹਿਬ",
+      "title_pa": "ਅਨੰਦ ਸਾਹਿਬ"
     },
     {
-      "id": "chaupai_sahib",
-      "title": "Chaupai Sahib",
-      "language": "Gurmukhi",
-      "text": "ਹਮਰੀ ਕਰੋ ਹਾਥ ਦੈ ਰਛਾ...\n\n(Complete Chaupai Sahib text here)"
+      "id": "ਚੌਪਈ_ਸਾਹਿਬ",
+      "title_pa": "ਚੌਪਈ ਸਾਹਿਬ"
     },
     {
-      "id": "ardas",
-      "title": "Ardas",
-      "language": "Gurmukhi",
-      "text": "ਇਕ ਓਅੰਕਾਰ ਵਾਹਿਗੁਰੂ ਜੀ ਕੀ ਫਤਹ...\n\n(Complete Ardas text here)"
+      "id": "ਅਰਦਾਸ",
+      "title_pa": "ਅਰਦਾਸ"
+    },
+    {
+      "id": "ਸੁਖਮਨੀ_ਸਾਹਿਬ",
+      "title_pa": "ਸੁਖਮਨੀ ਸਾਹਿਬ"
+    },
+    {
+      "id": "ਆਸਾ_ਦੀ_ਵਾਰ",
+      "title_pa": "ਆਸਾ ਦੀ ਵਾਰ"
+    },
+    {
+      "id": "ਸਲੋਕ_ਮਹਲਾ_੯",
+      "title_pa": "ਸਲੋਕ ਮਹਲਾ ੯"
     }
   ]
 }
